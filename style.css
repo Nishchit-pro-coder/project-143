@@ -1,0 +1,38 @@
+.heading 
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border:1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start .status
+{
+    font-size: 22px;
+}
+
+.coppy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    color: orange;
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
